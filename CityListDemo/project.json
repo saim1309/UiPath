@@ -3,6 +3,7 @@
   "description": "Working on List",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.1-preview]",
     "UiPath.Mail.Activities": "[1.8.1-preview]",
     "UiPath.System.Activities": "[20.2.0-preview]",
@@ -30,7 +31,7 @@
       "includeOriginalXaml": false,
       "privateWorkflows": []
     },
-    "fileInfoCollection": []
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }

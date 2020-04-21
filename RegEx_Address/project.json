@@ -3,10 +3,10 @@
   "description": "Demo for use of RegEx in UiPath",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.8.1-preview]",
-    "UiPath.Mail.Activities": "[1.8.1-preview]",
-    "UiPath.System.Activities": "[20.2.0-preview]",
-    "UiPath.UIAutomation.Activities": "[20.2.0-preview]"
+    "UiPath.Excel.Activities": "[2.8.3-beta.867639]",
+    "UiPath.Mail.Activities": "[1.8.3-beta.865074]",
+    "UiPath.System.Activities": "[20.4.0-beta.864462]",
+    "UiPath.UIAutomation.Activities": "[20.4.0-beta.866690]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
@@ -30,7 +30,7 @@
       "includeOriginalXaml": false,
       "privateWorkflows": []
     },
-    "fileInfoCollection": []
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }

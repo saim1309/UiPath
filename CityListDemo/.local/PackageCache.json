@@ -6,20 +6,19 @@
         "Version": "2.8.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\sahmad\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview\\lib/net461/UiPath.Excel.dll"
-      ],
-      "Path": "C:\\Users\\sahmad\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview"
+        "C:\\Users\\saima\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.excel.activities/2.8.1-preview\\lib/net461/UiPath.Excel.dll"
+      ]
     },
     {
       "Package": {
@@ -27,18 +26,17 @@
         "Version": "1.8.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\sahmad\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/MailKit.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/MimeKit.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/UiPath.Mail.Activities.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/UiPath.Mail.dll"
-      ],
-      "Path": "C:\\Users\\sahmad\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview"
+        "C:\\Users\\saima\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/MailKit.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/MimeKit.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.mail.activities/1.8.1-preview\\lib/net461/UiPath.Mail.dll"
+      ]
     },
     {
       "Package": {
@@ -46,24 +44,23 @@
         "Version": "20.2.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\sahmad\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/UiPath.System.Activities.dll"
-      ],
-      "Path": "C:\\Users\\sahmad\\.nuget\\packages\\uipath.system.activities/20.2.0-preview"
+        "C:\\Users\\saima\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.system.activities/20.2.0-preview\\lib/net461/UiPath.System.Activities.dll"
+      ]
     },
     {
       "Package": {
@@ -71,43 +68,52 @@
         "Version": "20.2.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\sahmad\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath/20.2.7348.30662-preview\\lib/UiPath.Interop.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.ocr.contracts/2.5.0-preview\\lib/net45/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.CV.Activities.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.CV.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.Wizards.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\sahmad\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Tesseract.dll"
-      ],
-      "Path": "C:\\Users\\sahmad\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview"
+        "C:\\Users\\saima\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath/20.2.7348.30662-preview\\lib/UiPath.Interop.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.ocr.contracts/2.5.0-preview\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.uiautomation.activities/20.2.0-preview\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Credentials.Activities",
+        "Version": "1.1.6479.13204"
+      },
+      "Assemblies": [
+        "C:\\Users\\saima\\.nuget\\packages\\credentialmanagement/1.0.2\\lib/net35/CredentialManagement.dll",
+        "C:\\Users\\saima\\.nuget\\packages\\uipath.credentials.activities/1.1.6479.13204\\lib/net40-client/UiPath.Credentials.Activities.dll"
+      ]
     }
   ],
   "Conflicts": [],
@@ -131,6 +137,11 @@
           "Item2": "[2.5.0, )"
         }
       ]
+    },
+    "CredentialManagement": {
+      "Id": "CredentialManagement",
+      "Version": "1.0.2",
+      "Dependencies": []
     },
     "CsvHelper": {
       "Id": "CsvHelper",
@@ -216,6 +227,16 @@
       "Id": "UiPath",
       "Version": "20.2.7348.30662-preview",
       "Dependencies": []
+    },
+    "UiPath.Credentials.Activities": {
+      "Id": "UiPath.Credentials.Activities",
+      "Version": "1.1.6479.13204",
+      "Dependencies": [
+        {
+          "Item1": "CredentialManagement",
+          "Item2": "[1.0.2, )"
+        }
+      ]
     },
     "UiPath.Excel.Activities": {
       "Id": "UiPath.Excel.Activities",
