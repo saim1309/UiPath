@@ -1598,11 +1598,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Selectors_Practice1",
-      "projectName": "Selectors_Practice1",
-      "projectPath": "C:\\UiPath\\Selectors_Practice1\\.local",
+      "projectUniqueName": "StateMachineDemo",
+      "projectName": "StateMachineDemo",
+      "projectPath": "C:\\UiPath\\StateMachineDemo\\.local",
       "packagesPath": "C:\\Users\\saima\\.nuget\\packages\\",
-      "outputPath": "C:\\UiPath\\Selectors_Practice1\\.local"
+      "outputPath": "C:\\UiPath\\StateMachineDemo\\.local"
     },
     "frameworks": {
       "net461": {
